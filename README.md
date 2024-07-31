@@ -119,6 +119,9 @@ This ASP.NET Core Web API provides endpoints to interact with Azure Blob Storage
 - **Query Parameters**:
   - `blobName`: The name of the blob to check
 
+![image](https://github.com/user-attachments/assets/0048fb27-6428-4151-acc8-738c849a29c7)
+
+
 ## Deployment
 
 To deploy this API to Azure App Service:
